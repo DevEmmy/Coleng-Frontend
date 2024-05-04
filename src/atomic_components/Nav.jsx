@@ -25,6 +25,10 @@ const Nav = ({ active = 0 }) => {
       title: "About",
       link: "/about",
     },
+    {
+      title: "NUTEC",
+      link: "/nutec"
+    },
     // {
     //   title: "Contact",
     //   link: "/contact",
